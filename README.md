@@ -10,7 +10,7 @@ A powerful Bash script to hunt, extract, and test V2Ray configs (VMess, VLESS, T
 -  **Clean Output:** Generates text files ready to import into v2rayNG/v2rayN.
 -  **No Hardcoded Tokens:** Asks for your Bot Token securely.
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 1. **Clone the repository:**
    ```bash
