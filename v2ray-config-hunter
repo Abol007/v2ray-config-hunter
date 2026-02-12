@@ -2,8 +2,8 @@
 
 # ============================================
 # Fatahi V2Ray Config Hunter v1.0
-# Developer: Abolfazl Fatahi
-# Instagram: @_AbolfazlFatahi_
+# Developer: Abolfazl
+# Instagram: @dotAbolfazl
 # ============================================
 
 RED='\033[0;31m'
@@ -37,8 +37,8 @@ banner() {
     echo -e "${CYAN}|${NC}                                                              ${CYAN}|${NC}"
     echo -e "${CYAN}|${NC}       ${WHITE}${BOLD}V2Ray Config Hunter v1.0${NC}                              ${CYAN}|${NC}"
     echo -e "${CYAN}|${NC}                                                              ${CYAN}|${NC}"
-    echo -e "${CYAN}|${NC}   ${PURPLE}Developer:${NC}  ${WHITE}Abolfazl Fatahi${NC}                              ${CYAN}|${NC}"
-    echo -e "${CYAN}|${NC}   ${PURPLE}Instagram:${NC}  ${YELLOW}@_AbolfazlFatahi_${NC}                            ${CYAN}|${NC}"
+    echo -e "${CYAN}|${NC}                                          }                              ${CYAN}|${NC}"
+    echo -e "${CYAN}|${NC}                                                                         ${CYAN}|${NC}"
     echo -e "${CYAN}|${NC}                                                              ${CYAN}|${NC}"
     echo -e "${CYAN}|${NC}   ${DIM}Extract V2Ray configs from Telegram channels,${NC}             ${CYAN}|${NC}"
     echo -e "${CYAN}|${NC}   ${DIM}test ping, show fastest with full config address.${NC}         ${CYAN}|${NC}"
