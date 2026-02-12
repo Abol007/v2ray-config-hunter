@@ -28,12 +28,12 @@ Bash
 ./hunter.sh
 
 
-⚙️ Requirements
+ Requirements
 The script automatically checks and installs dependencies, but you need:
 
 curl, jq, sqlite3, python3, pip, ping
 
-⚠️ Important Note
+ Important Note
 VPN Requirement: You need a VPN ON to fetch configs from Telegram, and VPN OFF to test their real ping. The script will guide you.
 
-Made with ❤️ by **Ig:** @_AbolfazlFatahi_
+Ig: @_AbolfazlFatahi_
