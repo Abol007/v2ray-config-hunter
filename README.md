@@ -1,4 +1,4 @@
-#  V2Ray Config Hunter v5.0 
+#  V2Ray Config Hunter v1.0 
 
 A powerful Bash script to hunt, extract, and test V2Ray configs (VMess, VLESS, Trojan, SS, SSR) directly from Telegram channels.
 
