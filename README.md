@@ -1,14 +1,14 @@
-#  V2Ray Config Hunter v5.0 🦅
+#  V2Ray Config Hunter v5.0 
 
 A powerful Bash script to hunt, extract, and test V2Ray configs (VMess, VLESS, Trojan, SS, SSR) directly from Telegram channels.
 
-## ✨ Features
-- 📥 Extract configs from multiple Telegram channels automatically.
-- 📂 Saves configs in a local SQLite database (`v2ray.db`).
-- ⚡️ **Ping Test:** Real-time ping test (ICMP & TCP Connection) to find active servers.
-- 📊 **Sorting:** Shows top 10 fastest configs.
-- 🧹 **Clean Output:** Generates text files ready to import into v2rayNG/v2rayN.
-- 🛡️ **No Hardcoded Tokens:** Asks for your Bot Token securely.
+##  Features
+-  Extract configs from multiple Telegram channels automatically.
+-  Saves configs in a local SQLite database (`v2ray.db`).
+-  **Ping Test:** Real-time ping test (ICMP & TCP Connection) to find active servers.
+-  **Sorting:** Shows top 10 fastest configs.
+-  **Clean Output:** Generates text files ready to import into v2rayNG/v2rayN.
+-  **No Hardcoded Tokens:** Asks for your Bot Token securely.
 
 ## 🚀 Installation & Usage
 
