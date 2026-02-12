@@ -16,24 +16,22 @@ A powerful Bash script to hunt, extract, and test V2Ray configs (VMess, VLESS, T
    ```bash
    git clone https://github.com/Abol007/v2ray-config-hunter.git
    cd v2ray-config-hunter
+
 Make the script executable:
-
-Bash
-
+`
 chmod +x hunter.sh
+`
 Run it:
-
-Bash
-
+`
 ./hunter.sh
+`
 
 
  Requirements
+ `
 The script automatically checks and installs dependencies, but you need:
-
 curl, jq, sqlite3, python3, pip, ping
+`
 
  Important Note
 VPN Requirement: You need a VPN ON to fetch configs from Telegram, and VPN OFF to test their real ping. The script will guide you.
-
-Ig: @_AbolfazlFatahi_
