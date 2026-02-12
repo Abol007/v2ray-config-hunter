@@ -19,11 +19,11 @@ A powerful Bash script to hunt, extract, and test V2Ray configs (VMess, VLESS, T
 
 Make the script executable:
 `
-chmod +x hunter.sh
+chmod +x v2ray-config-hunter.sh
 `
 Run it:
 `
-./hunter.sh
+./v2ray-config-hunter.sh
 `
 
 
